@@ -12,12 +12,12 @@ The following content can be used as a checklist to incorporate within your migr
  
 ![Concept Diagram](https://github.com/Azure/fta-liftandshift-dcmigration/blob/main/png/scan-workflow.PNG)
 - &nbsp;&nbsp;&nbsp;&nbsp;Azure Migrate Project Setup: https://docs.microsoft.com/en-us/azure/migrate/create-manage-projects
-    - &nbsp;&nbsp;&nbsp;&nbsp;How-to [Video](https://github.com/ravibak/fta-liftandshift-dcmigration/blob/main/png/Azure%20Migrate%20Project%20Setup.mkv)
+    - &nbsp;&nbsp;&nbsp;&nbsp;How-to [Video](https://github.com/azure/fta-liftandshift-dcmigration/blob/main/png/Azure%20Migrate%20Project%20Setup.mkv)
 - &nbsp;&nbsp;&nbsp;&nbsp;Reference Link A: https://docs.microsoft.com/en-us/azure/migrate/tutorial-discover-vmware#set-up-the-appliance
-    - &nbsp;&nbsp;&nbsp;&nbsp;How-to setup the discovery tool [Video](https://github.com/ravibak/fta-liftandshift-dcmigration/blob/main/png/Az%20Migrate%20Discovery%20tool%20Portal%20Setup.mp4)
-    - &nbsp;&nbsp;&nbsp;&nbsp;How-to create the appliance server [Video](https://github.com/ravibak/fta-liftandshift-dcmigration/blob/main/png/Azure%20Migrate%20Vmware%20Appliance%20Setup.mp4)
-    - &nbsp;&nbsp;&nbsp;&nbsp;How-to configure the appliance server [Video](https://github.com/ravibak/fta-liftandshift-dcmigration/blob/main/png/Azure%20Migrate%20Vmware%20Appliance%20Config.mp4)
-    - &nbsp;&nbsp;&nbsp;&nbsp;How-to view discovered data [Video](https://github.com/ravibak/fta-liftandshift-dcmigration/blob/main/png/Azure%20Migrate%20Vmware%20View%20discovered%20data.mp4)
+    - &nbsp;&nbsp;&nbsp;&nbsp;How-to setup the discovery tool [Video](https://github.com/azure/fta-liftandshift-dcmigration/blob/main/png/Az%20Migrate%20Discovery%20tool%20Portal%20Setup.mp4)
+    - &nbsp;&nbsp;&nbsp;&nbsp;How-to create the appliance server [Video](https://github.com/azure/fta-liftandshift-dcmigration/blob/main/png/Azure%20Migrate%20Vmware%20Appliance%20Setup.mp4)
+    - &nbsp;&nbsp;&nbsp;&nbsp;How-to configure the appliance server [Video](https://github.com/azure/fta-liftandshift-dcmigration/blob/main/png/Azure%20Migrate%20Vmware%20Appliance%20Config.mp4)
+    - &nbsp;&nbsp;&nbsp;&nbsp;How-to view discovered data [Video](https://github.com/azure/fta-liftandshift-dcmigration/blob/main/png/Azure%20Migrate%20Vmware%20View%20discovered%20data.mp4)
 - &nbsp;&nbsp;&nbsp;&nbsp;Reference Link B: https://docs.microsoft.com/en-us/azure/migrate/tutorial-discover-hyper-v#set-up-the-appliance
 - &nbsp;&nbsp;&nbsp;&nbsp;Reference Link C: 
     - &nbsp;&nbsp;&nbsp;&nbsp;Physical/Other hypervisors: https://docs.microsoft.com/en-us/azure/migrate/tutorial-discover-physical#set-up-the-appliance
