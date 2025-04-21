@@ -1,3 +1,7 @@
+# IMPORTANT
+
+With the closure of the FastTrack for Azure program, this repository is being archived, and will no longer be maintained.
+
 # Project
 
 > This repo has been populated by an initial template to help get you started. Please
